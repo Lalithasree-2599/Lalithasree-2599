@@ -48,7 +48,7 @@ Vector_DBs + Retrieval:
 Learning:
   - Rust 🦀 for system-level performance
 
-**## 🔧 Tech Stack**
+## 🔧 Tech Stacke  
 💻 Languages
 Python • C# • TypeScript • JavaScript • SQL • Rust (Learning)
 
