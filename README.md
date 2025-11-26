@@ -83,5 +83,21 @@ Azure • AWS SageMaker / Bedrock • Docker • Kubernetes • CI/CD
 
 💡 I believe: AI should solve real-world problems—not just generate outputs.
 
-📬 Let’s Connect!
-<p align="left"> <a href="mailto:thatavarthinagalalithasree2020@gmail.com"><img src="https://img.shields.io/badge/Email-Me-orange" /></a> <a href="https://github.com/Lalithasree-2599"><img src="https://img.shields.io/badge/GitHub-Profile-black" /></a> <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a> </p>
+## 📬 Let’s Connect!
+
+<div align="center">
+  
+<a href="mailto:thatavarthinagalalithasree2020@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Me-orange?style=for-the-badge" />
+</a>
+  
+<a href="https://github.com/Lalithasree-2599">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge" />
+</a>
+  
+<a href="https://www.linkedin.com/in/your-linkedin-id">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+</a>
+
+</div>
+
