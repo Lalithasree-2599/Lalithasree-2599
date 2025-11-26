@@ -48,7 +48,7 @@ Vector_DBs + Retrieval:
 Learning:
   - Rust 🦀 for system-level performance
 
-## 🔧 Tech Stacke  
+🔧 Tech Stack
 💻 Languages
 Python • C# • TypeScript • JavaScript • SQL • Rust (Learning)
 
@@ -72,7 +72,7 @@ Azure • AWS SageMaker / Bedrock • Docker • Kubernetes • CI/CD
 ✨ Fun Facts About Me
 🧠 Strong foundation in Programming Languages Theory & Functional Programming
 
-🧾 Passionate about AI + OCR — turning documents into structured knowledge
+🚀 I build  systems with a  mindset — turning ideas into real, scalable solutions that create impact.
 
 🏥 Currently exploring Agentic AI for Healthcare
 
