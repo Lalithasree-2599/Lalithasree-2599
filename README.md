@@ -1,72 +1,87 @@
-# 👋 Hey, I'm Naga Lalitha Sree!
+<!-- Typing Animation Header -->
+<h1 align="center">Hi, I'm <span style="color:#FF8C00;">Naga Lalitha Sree</span> 👋</h1>
 
-💻 **Senior Full-Stack + AI Engineer** with 5+ years of experience building  
-scalable full-stack platforms, AI/agentic systems, and RAG pipelines.  
-Strong ownership mindset — from architecture to production 🚀
-
----
-
-## 🏆 Awards & Certifications
-- Microsoft Certified: **Azure AI Fundamentals**
-- **Winner** – Agentic AI Challenge Hackathon at DevFest DC (Google)
-- Building Agentic AI Applications with a Problem-First Approach
-- Optimizely Paas CMS Developer Certified
-- **Nominated** – *Women in Tech Global Awards 2025* — Software Engineering Leader of the Year
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF8C00&center=true&vCenter=true&width=780&lines=AI+Engineer+%7C+.NET+Full+Stack+Developer;Python+AI+%7C+RAG+Pipelines+%7C+Vector+DBs;Agentic+AI+in+Healthcare+%7C+OCR+%26+Document+AI;Exploring+Rust+for+System+Thinking!" />
+</p>
 
 ---
 
-## 🔧 Tech Stack
+## 🚀 About Me  
 
-**Languages:**  
-`C#` · `Python` · `TypeScript` · `JavaScript` · `Go` · `Shell`  
+I’m a **Senior Full-Stack + AI Engineer** passionate about building real-world AI systems using  
+**.NET + Python + Agentic AI + Vector Databases + OCR**.
 
-**Frameworks & Libraries:**  
-`.NET Core` · `React` · `Next.js` · `LangChain` · `FastAPI` · `RAG` · `PyTorch`  
+I love solving **practical problems** — especially where **software engineering meets AI reasoning**.
 
-**Cloud & AI:**  
-`Azure AI` · `AWS (SageMaker, Bedrock)` · `OpenAI API` · `Gemini`  
-
-**Databases:**  
-`SQL Server` · `PostgreSQL` · `MongoDB` · `Pinecone` · `ChromaDB`
-
-**Tools:**  
-Docker · Kubernetes · Azure DevOps · Control-M · Git · CI/CD  
+📍 Virginia, USA  
+📧 **Email:** `thatavarthinagalalithasree2020@gmail.com`  
+🌐 **Portfolio:** <a href="https://lalithasree-2599.github.io/myportfolio" target="_blank">View My Work 🚀</a>
 
 ---
 
-## 🚀 Projects
+## 🧠 Current Focus
 
-### 🔹 Pricewise AI Assistant | *RAG + LangChain + OpenAI*
-AI Pricing Analyst built using RAG + multi-agent orchestration to recommend optimized pricing strategies.
+```yaml
+Agentic_AI_Healthcare:
+  - Multi-Agent Reasoning Systems
+  - Clinical Decision Automation
+  - Patient Insights via RAG
+  - AI Safety & Guardrails
 
-### 🔹 DetectAI | *Misinformation Detection System*
-AI-powered credibility analyzer using **Google Gemini 2.0 Flash + Streamlit**.
+AI_Document_Intelligence:
+  - Tesseract OCR & OpenCV
+  - Medical Record Parsing
+  - ICD Code Extraction w/ RAG
+  - AI Summarization & Retrieval
 
-### 🔹 Pluto AI | *Accessible Multimodal AI for Neurodiverse Users*
-Transforms complex content into simplified text, visuals & voice.  
-Powerful AI assistant for **ADHD, dyslexia & dysgraphia** learners.
+Full_Stack_Engineering:
+  - .NET Core APIs & Microservices
+  - React / Next.js Frontend
+  - Azure DevOps + CI/CD
 
----
+Vector_DBs + Retrieval:
+  - Pinecone & ChromaDB
+  - Embeddings & Context Injection
+  - Dynamic Memory for AI Agents
 
-## 💼 Professional Experience
+Learning:
+  - Rust 🦀 for system-level performance
+🔧 Tech Stack
+💻 Languages
+Python • C# • TypeScript • JavaScript • SQL • Rust (Learning)
 
-| Role | Company | Duration |
-|------|--------|-----------|
-| Senior Full Stack + AI Developer | APTA | 2025 – Present |
-| Senior Full Stack Developer | Srisan Group (Multiple Clients) | 2025 – Present |
-| Senior Full Stack Developer | Gabriella White | 2024 – 2025 |
-| Full Stack Developer | UPS | 2023 |
-| Junior Developer | TCS | 2020 – 2021 |
+⚙ Backend
+.NET Core 5–9 • FastAPI • Node.js • REST APIs • MCP Architecture
 
----
+🧠 AI & Retrieval Stack
+Area	Tools
+LLMs	OpenAI GPT, Gemini, Nemotron
+Vector DBs	ChromaDB, Pinecone, FAISS
+Document AI	Tesseract OCR, OpenCV, LangChain, Unstructured
+Embeddings	OpenAI ADA-002, Sentence Transformers
+Agents & RAG	LangChain, FastAPI, MCP
 
-## 🎯 Currently Learning
-`Rust` · `AI Agents (MCP)`  
+🌐 Frontend
+React.js • Next.js • Tailwind CSS • ShadCN UI
 
----
+🏗 Cloud & DevOps
+Azure • AWS SageMaker / Bedrock • Docker • Kubernetes • CI/CD
 
-## 📫 Let’s Connect!
-[LinkedIn](https://www.linkedin.com/in/nagalalithasree-thatavarthi/) • [GitHub](https://github.com/Lalithasree-2599) • [Portfolio](https://lalithasree-2599.github.io/myportfolio/)
+📊 GitHub Analytics
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lalithasree-2599&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Lalithasree-2599&theme=tokyonight" /> </p>
+✨ Fun Facts About Me
+🧠 Strong foundation in Programming Languages Theory & Functional Programming
 
----
+🧾 Passionate about AI + OCR — turning documents into structured knowledge
 
+🏥 Currently exploring Agentic AI for Healthcare
+
+🐍 Python is my primary AI engineering language
+
+🦀 Learning Rust to push performance & system engineering
+
+💡 I believe: AI should solve real-world problems—not just generate outputs.
+
+📬 Let’s Connect!
+<p align="left"> <a href="mailto:thatavarthinagalalithasree2020@gmail.com"><img src="https://img.shields.io/badge/Email-Me-orange" /></a> <a href="https://github.com/Lalithasree-2599"><img src="https://img.shields.io/badge/GitHub-Profile-black" /></a> <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue" /></a> </p>
