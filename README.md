@@ -68,8 +68,6 @@ React.js • Next.js • Tailwind CSS • ShadCN UI
 🏗 Cloud & DevOps
 Azure • AWS SageMaker / Bedrock • Docker • Kubernetes • CI/CD
 
-📊 GitHub Analytics
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Lalithasree-2599&show_icons=true&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Lalithasree-2599&theme=tokyonight" /> </p>
 ✨ Fun Facts About Me
 🧠 Strong foundation in Programming Languages Theory & Functional Programming
 
@@ -83,21 +81,5 @@ Azure • AWS SageMaker / Bedrock • Docker • Kubernetes • CI/CD
 
 💡 I believe: AI should solve real-world problems—not just generate outputs.
 
-## 📬 Let’s Connect!
 
-<div align="center">
-  
-<a href="mailto:thatavarthinagalalithasree2020@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Me-orange?style=for-the-badge" />
-</a>
-  
-<a href="https://github.com/Lalithasree-2599">
-  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge" />
-</a>
-  
-<a href="https://www.linkedin.com/in/your-linkedin-id">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
-</a>
-
-</div>
 
