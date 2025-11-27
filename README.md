@@ -72,7 +72,6 @@ Azure • AWS SageMaker / Bedrock • Docker • Kubernetes • CI/CD
 ✨ Fun Facts About Me
 🧠 Strong foundation in Programming Languages Theory & Functional Programming
 
-🚀 I build  systems with a  mindset — turning ideas into real, scalable solutions that create impact.
 
 🏥 Currently exploring Agentic AI for Healthcare
 
