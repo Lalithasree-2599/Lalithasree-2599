@@ -25,8 +25,6 @@ I love solving **practical problems** — especially where **software engineerin
 ```yaml
 Agentic_AI_Healthcare:
   - Multi-Agent Reasoning Systems
-  - Clinical Decision Automation
-  - Patient Insights via RAG
   - AI Safety & Guardrails
 
 AI_Document_Intelligence:
